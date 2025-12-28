@@ -1,0 +1,42 @@
+# General build output
+/build/
+/cmake-build-*/
+/cpp/build/
+/cpp/cmake-build-*/
+
+# C/C++ artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.pdb
+*.dSYM/
+
+# Rust
+/rust/target/
+
+# Go
+/go/bin/
+
+# IDEs
+/.idea/
+/.vscode/
+
+# Vim
+*~
+*.swp
+*.swo
+*.swn
+*.swx
+*.vim
+.vim/
+Session.vim
+.netrwhist
+
+# OS
+.DS_Store
