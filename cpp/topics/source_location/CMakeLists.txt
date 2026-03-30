@@ -1,0 +1,1 @@
+modern_cpp_add_demo(source_location_eg01 eg01.cc)

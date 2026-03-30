@@ -1,0 +1,1 @@
+modern_cpp_add_demo(move_only_function_eg01 eg01.cc)

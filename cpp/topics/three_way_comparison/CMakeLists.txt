@@ -1,0 +1,1 @@
+modern_cpp_add_demo(three_way_comparison_eg01 eg01.cc)

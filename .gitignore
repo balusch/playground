@@ -3,6 +3,9 @@
 /cmake-build-*/
 /cpp/build/
 /cpp/cmake-build-*/
+/cpp/.idea/
+/cpp/compile_commands.json
+/cpp/.nvimlog
 
 # C/C++ artifacts
 *.o
